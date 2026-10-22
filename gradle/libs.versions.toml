@@ -16,6 +16,7 @@ kotlin-wrappers = "2026.9.3"
 kotlinx-coroutines = "1.11.0"
 material3 = "1.12.0-alpha03"
 multiplatform-nav3-ui = "1.1.1"
+kotlin-serialization = "2.4.21"
 
 
 [libraries]
@@ -47,3 +48,4 @@ composeMultiplatform = { id = "org.jetbrains.compose", version.ref = "composeMul
 composeCompiler = { id = "org.jetbrains.kotlin.plugin.compose", version.ref = "kotlin" }
 kotlinJvm = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }
 kotlinMultiplatform = { id = "org.jetbrains.kotlin.multiplatform", version.ref = "kotlin" }
+kotlinSerialization = {id = "org.jetbrains.kotlin.plugin.serialization", version.ref = "kotlin-serialization" }
