@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "756346526967",
+    "project_id": "androidfinalproject-geo",
+    "storage_bucket": "androidfinalproject-geo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756346526967:android:788bfb1315b574ae7b87f2",
+        "android_client_info": {
+          "package_name": "app.heavenlypillar.finalproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw_eFjD6ZBL8-7JIzi0GeRsmQVGYSRa50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

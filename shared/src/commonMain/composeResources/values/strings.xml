@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Manager</string>
+    <string name="search">Search</string>
+    <string name="filter">Filter</string>
+    <string name="sort">Sort</string>
+    <string name="administrator">Administrator</string>
+    <string name="reg_employee">Regular Employee</string>
+    <string name="login_As">Log In As</string>
+    <string name="sign_in">Sign In</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="purchase">Purchase</string>
+    <string name="pending">Pending</string>
+    <string name="approve">Approve</string>
+    <string name="created_by">Created By</string>
+    <string name="create_new_emplyee">Create New Employee</string>
+    <string name="my_profile">My Profile</string>
+    <string name="details">Details</string>
+    <string name="price">Price</string>
+    <string name="requested_by">Requested By</string>
+    <string name="vacation_days">Vacation Days</string>
+    <string name="name_surname">Name/Surname</string>
+    <string name="business_name">Business Name</string>
+    <string name="location">Location</string>
+    <string name="open_hours">Open Hours</string>
+    <string name="establishment_date">Establishment Date</string>
+    <string name="employees">Employees</string>
+    <string name="menu">Menu</string>
+    <string name="services">Provided Services</string>
+    <string name="save">Save</string>
+    <string name="discard">Discard</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="preferred_language">Preferred Language</string>
+    <string name="pto_left">Total PTO Days Left</string>
+    <string name="add_dayoff">Add Day-Off</string>
+    <string name="dayoff">Day-Off</string>
+    <string name="sick_leave">Sick Leave</string>
+    <string name="days">Days</string>
+    <string name="pending_requests">Pending Requests</string>
+    <string name="upcoming_holidays">Upcoming Public Holidays</string>
+    <string name="work_calendar">Work Calendar</string>
+    <string name="birthday">Birthday</string>
+    <string name="start_date">Start Date</string>
+    <string name="position">Position</string>
+    <string name="regular_shift">Regular Shift</string>
+    <string name="salary">Salary</string>
+    <string name="create">Create</string>
+    <string name="termination">Termination</string>
+    <string name="termination_note">Termination of this Account will result of restricting Person from further accessing the Application/website.
+
+we will be deleting all their relevant data and associated work email.
+
+note: purchase orders and taken day-offs will still be part of statistics calculation</string>
+    <string name="proceed">Proceed</string>
+    <string name="approved">Approved</string>
+    <string name="reject">Reject</string>
+    <string name="complete_order">Complete Order</string>
+    <string name="past_orders">Past Orders</string>
+    <string name="create_new_order">Create New order</string>
+    <string name="subject">Subject</string>
+    <string name="type">Type</string>
+    <string name="amount">Amount</string>
+    <string name="reason">Reason</string>
+    <string name="approver">Approver</string>
+
+</resources>
